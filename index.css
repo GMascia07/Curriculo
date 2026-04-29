@@ -1,0 +1,54 @@
+body{ 
+    background-image: linear-gradient(to bottom, rgba(37, 204, 216, 0.808), rgba(24, 214, 110, 0.863));
+    background-color: black;
+    background-position: 1rem;
+}
+
+hr {
+    border-color:rgb(255, 0, 0); 
+    font-size: 3rem;
+    text-align: center;
+}
+
+h1 { 
+    color: white;
+    text-align: center;
+    font-size: 4,5rem;
+    font-style: italic;
+
+}
+
+p { 
+    color: blue;
+    font-size: 1rem;
+    
+
+}
+
+b { 
+    font-style: inherit;
+    font-size: 1.1rem;
+    color: rgb(0, 0, 0);
+    text-decoration: wavy
+
+}
+
+html { 
+    color: rgb(255, 255, 255);
+    font-size: 1,5rem;     
+    
+}
+  
+
+    
+
+
+div { color: black;
+      font-size: 1rem;
+      font-style: initial;
+      
+
+
+}
+
+
